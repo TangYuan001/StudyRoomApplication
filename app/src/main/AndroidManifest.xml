@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SomeActivity.FriendActivity" />
+        <activity android:name=".SomeActivity.ClassRoomActivity" />
+        <activity android:name=".SomeActivity.BoardActivity" />
+        <activity android:name=".SomeActivity.MapActivity" />
     </application>
 
 </manifest>
